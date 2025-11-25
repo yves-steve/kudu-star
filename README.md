@@ -27,9 +27,16 @@
 *Warning: My commit history may contain evidence of "it works on my machine" syndrome*
 
 ## 🔭 Current Projects
-- Multi-cloud infrastructure automation with Terraform (because managing one cloud wasn't painful enough)
-- Security compliance and policy management (teaching computers to follow rules so humans don't have to)
-- Cost optimization and FinOps practices (aka "How to explain that cloud bill to management")
+
+### [🐙 fictional-octo-system](https://github.com/yves-steve/fictional-octo-system)
+A work-in-progress multi-cloud Infrastructure as Code repository featuring:
+- 🌩️ Multi-cloud infrastructure automation (Azure, AWS, GCP) with Terraform
+- 🔒 Security compliance and policy management across clouds
+- 💰 Cost optimization and FinOps practices
+- 🔐 GitHub OIDC authentication for secure CI/CD pipelines
+- 📊 Automated security scanning with tfsec
+
+*Teaching computers to follow rules so humans don't have to (and explaining cloud bills to management)*
 
 ## 💡 Fun Facts
 - My code is like my sense of humour: occasionally works, often needs debugging
@@ -37,12 +44,12 @@
 - My tech relationship status: It's complicated just like Kubernetes
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yveslaingui)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yves-laingui-648791194)
 
-*Professional inquiries welcome. Cycling GIFs also accepted.* 🐱
+*Professional inquiries welcome. Cycling GIFs also accepted.* 🚴
 
 ## 📝 Latest Blog Posts
-Its quiet here... (Translation: I keep saying I'll blog, but Netflix keeps suggesting "just one more episode")
+It's quiet here... (Translation: I keep saying I'll blog, but Netflix keeps suggesting "just one more episode")
 
 <!---
 kudu-star/kudu-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
