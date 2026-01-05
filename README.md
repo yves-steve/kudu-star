@@ -7,9 +7,9 @@
 - 🧠 I bought my gaming PC - and it rocks! (Intel who? 😏)
 - 🌱 I'm currently learning Python scripting, Cloud Infrastructure (Azure, AWS, GCP) and Infrastructure as Code (Terraform)
 - 💼 Working with multi-cloud deployments and security best practices
-- ☕ Powered by coffee and occasional Stack Overflow and Github panic searches
+- ☕ Powered by coffee and occasional Stack Overflow and GitHub panic searches
 - 🐛 I don't always test my code, but when I do, I do it in production (just kidding... mostly)
-- The play on words for Yves-Steve originates from people mishearing my name on the phone, so I usually play along
+- My GitHub username "Yves-Steve" is a play on words that originates from people mishearing my name on the phone, so I usually play along
 
 ## 🛠️ Technologies & Tools
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
